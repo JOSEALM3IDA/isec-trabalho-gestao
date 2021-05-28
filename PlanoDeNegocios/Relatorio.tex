@@ -1,0 +1,126 @@
+\documentclass[11pt]{article}
+\usepackage{graphicx}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{tikz}
+\usepackage{indentfirst}
+\usepackage{tabularx}
+\usepackage{listingsutf8}
+\usepackage{color}
+\usepackage[portuguese]{babel}
+
+\graphicspath{{./images/}}
+
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;} 
+\setlength{\parskip}{0.5em}
+
+\lstset{
+	belowcaptionskip=1\baselineskip,
+	captionpos=b,
+	frame=tb,
+	language=C,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=false,
+	columns=flexible,
+	basicstyle={\small\ttfamily},
+	numbers=none,
+	numberstyle=\tiny\color{gray},
+	keywordstyle=\color{blue},
+	commentstyle=\color{dkgreen},
+	stringstyle=\color{mauve},
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=3,
+	inputencoding=utf8,
+	extendedchars=true,
+	literate={á}{{\'a}}1 {ã}{{\~a}}1 {à}{{\`a} }1 {Ã}{{\~A}}1 {ó}{{\'o}}1 {Ó}{{\'O}}1 {Í}{{\'I}}1 {í}{{\'i}}1 {é}{{\'e}}1 {ç}{{\c{c}}}1 {Ç}{{\c{C}}}1 {ú}{{\'u}}1
+}
+
+\begin{document}
+	\include{Cover.tex}
+	
+	\tableofcontents
+	\pagebreak
+	
+	\large
+	\section{Sumário Executivo}
+	
+	\normalsize
+	
+	Possuir e manter terrenos é algo que faz parte da vida de muitos indivíduos e famílias. Por vezes, por falta de visão geral e/ou de conhecimento acerca dos próprios terrenos que possuem, podem-se gerar desentendimentos e dificuldades na sua localização. Com o crescimento da literacia informática da população, faz todo o sentido a procura da informatização do seu património. Muitas vezes, os proprietários dos terrenos procuram fazê-lo, mas não encontram uma solução viável e simples.
+	
+	A AquiTerrenos pretende resolver esse problema: tem como finalidade servir como uma pequena base de dados para cada família ou indivíduo, onde pode guardar toda a informação que achar relevante sobre os seus terrenos (como pinhais, eucaliptais, vinhas, etc.), assim como partilhar o acesso à mesma com quem quiser, facilitando o acesso a outros serviços externos.
+	
+	O nosso objetivo é dar ao cliente uma visão alargada sobre os seus terrenos, que o permita gerir os mesmos da forma mais eficiente possível, assim como partilhar informações dos mesmos à sua família / amigos / cooperativas agrícolas, de modo a fomentar e facilitar a cooperação entre proprietários. Implementaremos funcionalidades como geolocalização, informações topográficas, do solo, da fauna e da flora, visualização 3D e 360ª do terreno, entre outras.
+	
+	Para tirar o máximo proveito dessas funcionalidades, a AquiTerrenos funcionará também como um mercado de terrenos, que irá usar as informações já inseridas pelo cliente sobre os seus terrenos, caso este queira vender os mesmos. Isto simplifica o processo de venda para utilizadores da funcionalidade descrita nos parágrafos anteriores, pois, num caso ideal, já não será necessária a inserção de informação adicional sobre os terrenos que pretende vender, algo que fará com que o utilizador seja mais propício a usar o mercado da AquiTerrenos, e não qualquer outro.
+	
+	Esta proposta de solução tem de ser rentável para a empresa. Assim, surge a ideia de criação de uma aplicação, inicialmente grátis, onde possa ser feita essa gestão dos terrenos, assim como interagir com o mercado. Algumas funcionalidades estarão barradas por um pagamento único, outras estarão associadas a subscrições mensais/anuais.
+	
+	A partir de um pequeno estudo de mercado, observamos que por volta de 25\% das famílias que participaram desse estudo não possuem um registo (em papel ou informatizado) dos terrenos que possuem. Este seria o público-alvo do nosso serviço. Além disso, 90\% reportou interesse em utilizar a nossa aplicação e o mercado associado.
+	
+	De momento, a empresa encontra-se num estado teórico, sendo o próximo passo o desenvolvimento de um protótipo de modo a estudar ainda mais o mercado e o nosso público alvo. Estimamos que, no fim de um período de 5 anos, teremos um VAL de 1.700.000€, assim como uma TIR de aproximadamente 116\%. Estimamos, também, a recuperação do investimento inicial em 4 anos.
+	
+	\pagebreak
+	
+	\large
+	\section{Identificação da Empresa}
+	
+	\normalsize
+	
+	\begin{center}
+		\begin{tabular}{ | l | r | }
+			\hline
+			Designação Social: & AquiTerrenos, Lda \\
+			\hline
+			Nº de Contribuinte: & 001122334 \\
+			\hline 
+			Distrito: & Coimbra \\
+			\hline   
+			Concelho: & Coimbra \\
+			\hline   
+			Localidade: & Coimbra \\
+			\hline   
+			Morada (Sede Social): & Rua Pedro Nunes \\
+			\hline   
+			Telefone: & 123 456 789 \\
+			\hline 
+			Fax: & 123 456 789 \\
+			\hline 
+			URL: & aquiterrenos.com \\
+			\hline
+			E-mail: & aquiterrenosgeral@gmail.com \\
+			\hline 
+			Responsável: & José Almeida \\
+			\hline 
+			Cargo: & CEO \\ 
+			\hline
+			Móvel: & 123 456 789 \\
+			\hline 
+			Fax: & 123 456 789 \\
+			\hline 
+			E-Mail: & a2019129077@isec.pt \\
+			\hline 
+			Data de Constituição e Inicio da Atividade: & 01-06-2021 \\
+			\hline 
+			Forma Jurídica: & Sociedade por Quotas \\
+			\hline 
+			Capital Social: & 3.000€ \\
+			\hline
+			Principais Accionistas: & José Almeida \\
+			& Rúben Lousada  \\
+			& Sofia Janeiro  \\
+			\hline 
+			CAE:  & 58290 \\
+			\hline 
+		\end{tabular}
+	\end{center}
+
+	\pagebreak
+
+	\large
+	\section{Anexos}
+
+	\normalsize
+	\listoffigures
+\end{document}

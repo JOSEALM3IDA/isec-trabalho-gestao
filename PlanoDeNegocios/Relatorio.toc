@@ -1,0 +1,4 @@
+\babel@toc {portuguese}{}
+\contentsline {section}{\numberline {1}Sumário Executivo}{2}{}%
+\contentsline {section}{\numberline {2}Identificação da Empresa}{3}{}%
+\contentsline {section}{\numberline {3}Anexos}{4}{}%
