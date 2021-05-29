@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.27)  29 MAY 2021 15:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.27)  29 MAY 2021 18:54
 entering extended mode
 **./Relatorio.tex
 (Relatorio.tex
@@ -565,25 +565,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
-)
-\tf@toc=\write4
-\openout4 = `Relatorio.toc'.
-
  [1
 
 
-] [2] [3]
-<./images//jalmeida.png, id=28, 427.5975pt x 427.5975pt>
+] [2])
+\tf@toc=\write4
+\openout4 = `Relatorio.toc'.
+
+ [3] [4] [5]
+<./images//jalmeida.png, id=34, 427.5975pt x 427.5975pt>
 File: ./images//jalmeida.png Graphic file (type png)
 <use ./images//jalmeida.png>
 Package pdftex.def Info: ./images//jalmeida.png  used on input line 149.
 (pdftex.def)             Requested size: 70.8018pt x 70.79848pt.
-<./images//rlousada.png, id=29, 102.3825pt x 102.3825pt>
+<./images//rlousada.png, id=35, 102.3825pt x 102.3825pt>
 File: ./images//rlousada.png Graphic file (type png)
 <use ./images//rlousada.png>
 Package pdftex.def Info: ./images//rlousada.png  used on input line 161.
 (pdftex.def)             Requested size: 70.8018pt x 70.80647pt.
-<./images//sjaneiro.png, id=30, 963.6pt x 961.5925pt>
+<./images//sjaneiro.png, id=36, 963.6pt x 961.5925pt>
 File: ./images//sjaneiro.png Graphic file (type png)
 <use ./images//sjaneiro.png>
 Package pdftex.def Info: ./images//sjaneiro.png  used on input line 173.
@@ -592,29 +592,30 @@ Package pdftex.def Info: ./images//sjaneiro.png  used on input line 173.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./images//jalmeida.png> <./images//rlousada.png>] [5 <./images//sjaneiro.pn
-g>] [6] [7] (Relatorio.lof)
+[6 <./images//jalmeida.png> <./images//rlousada.png>] [7 <./images//sjaneiro.pn
+g>] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] (Relatorio.lof)
 \tf@lof=\write5
 \openout5 = `Relatorio.lof'.
 
- [8] (Relatorio.aux (Cover.aux)) ) 
+ [18]
+(Relatorio.aux (Cover.aux)) ) 
 Here is how much of TeX's memory you used:
  15065 strings out of 479321
  290824 string characters out of 2866501
- 766957 words of memory out of 3000000
+ 768957 words of memory out of 3000000
  32232 multiletter control sequences out of 15000+600000
  409855 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,7n,89p,612b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\josec\AppData\Local\MiKTeX\fonts/p
-k/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Program Files/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
-fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Relatorio.pdf (9 pages, 868143 bytes).
+ <C:\Users\josec\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\tcrm1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
+:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
+es/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Relatorio.pdf (19 pages, 884570 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
