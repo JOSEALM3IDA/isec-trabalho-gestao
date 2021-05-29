@@ -1,4 +1,28 @@
 \babel@toc {portuguese}{}
 \contentsline {section}{\numberline {1}Sumário Executivo}{2}{}%
-\contentsline {section}{\numberline {2}Identificação da Empresa}{3}{}%
-\contentsline {section}{\numberline {3}Anexos}{4}{}%
+\contentsline {section}{\numberline {2}Apresentação do Negócio}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Identificação da Empresa}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Denominação e Forma Jurídica Adotadas}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Historial da Empresa}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Visão}{5}{}%
+\contentsline {subsection}{\numberline {2.5}Missão}{5}{}%
+\contentsline {subsection}{\numberline {2.6}Vetores Estratégicos}{5}{}%
+\contentsline {subsection}{\numberline {2.7}Localização das Instalações e Descrição do Local}{5}{}%
+\contentsline {subsection}{\numberline {2.8}Razões para a escolha da localização}{5}{}%
+\contentsline {section}{\numberline {3}Análise do Produto/Serviço}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Descrição Sumária dos Serviços}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Vantagens Distintivas}{6}{}%
+\contentsline {subsection}{\numberline {3.3}Desenvolvimentos Previsíveis dos Serviços}{6}{}%
+\contentsline {subsection}{\numberline {3.4}Tecnologias a Utilizar e Direitos da Propriedade Industrial}{6}{}%
+\contentsline {subsection}{\numberline {3.5}Processo Produtivo}{6}{}%
+\contentsline {subsection}{\numberline {3.6}Layout das instalações}{6}{}%
+\contentsline {section}{\numberline {4}Análise de Mercado}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Evolução Histórica e Previsional do Setor (Problemas e Tendências)}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Enquadramento do Negócio no Setor}{7}{}%
+\contentsline {subsection}{\numberline {4.3}Caracterização do Mercado Alvo}{7}{}%
+\contentsline {subsection}{\numberline {4.4}Análise da Concorrência}{7}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Identificação}{7}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}Avaliação da Empresa com os seus Principais Concorrentes}{7}{}%
+\contentsline {subsection}{\numberline {4.5}Fornecedores}{7}{}%
+\contentsline {section}{\numberline {5}Estratégia de Marketing}{7}{}%
+\contentsline {section}{\numberline {6}Anexos}{8}{}%
