@@ -27,40 +27,41 @@
 \contentsline {section}{\numberline {5}Estratégia de Marketing}{14}{}%
 \contentsline {subsection}{\numberline {5.1}Segmentação}{14}{}%
 \contentsline {subsection}{\numberline {5.2}Política do Produto/Serviço}{14}{}%
-\contentsline {subsection}{\numberline {5.3}O Preço}{14}{}%
-\contentsline {subsection}{\numberline {5.4}Distribuição}{14}{}%
-\contentsline {subsection}{\numberline {5.5}Promoção}{14}{}%
-\contentsline {section}{\numberline {6}Organização e Gestão}{15}{}%
-\contentsline {subsection}{\numberline {6.1}Experiência dos Promotores}{15}{}%
-\contentsline {subsection}{\numberline {6.2}Especialização Funcional da Organização}{15}{}%
-\contentsline {subsubsection}{\numberline {6.2.1}Organigrama}{15}{}%
-\contentsline {subsection}{\numberline {6.3}Análise da Adequação do Perfil às Funções}{15}{}%
-\contentsline {subsection}{\numberline {6.4}Processo de Decisão}{15}{}%
-\contentsline {subsection}{\numberline {6.5}Qualificações do Quadro de Recursos Humanos}{15}{}%
-\contentsline {subsection}{\numberline {6.6}Gestão de Recursos Humanos}{15}{}%
-\contentsline {subsection}{\numberline {6.7}Profissionais Externos}{15}{}%
-\contentsline {section}{\numberline {7}Riscos do Negócio}{16}{}%
-\contentsline {subsection}{\numberline {7.1}Análise Externa - Ameaças e Oportunidades}{16}{}%
-\contentsline {subsubsection}{\numberline {7.1.1}Ambiente Geral ou Macroambiente}{16}{}%
-\contentsline {subsubsection}{\numberline {7.1.2}Ambiente da Indústria ou Competitivo}{16}{}%
-\contentsline {subsubsection}{\numberline {7.1.3}Análise Interno - Forças e Fraquezas}{16}{}%
-\contentsline {subsection}{\numberline {7.2}Análise SWOT}{16}{}%
-\contentsline {subsection}{\numberline {7.3}Modelo das 5 Forças de Porter}{16}{}%
-\contentsline {subsubsection}{\numberline {7.3.1}Ameaça de Novas Entradas}{16}{}%
-\contentsline {subsubsection}{\numberline {7.3.2}Ameaça de Serviços Substitutos}{16}{}%
-\contentsline {subsubsection}{\numberline {7.3.3}Rivalidade Entre os Concorrentes}{16}{}%
-\contentsline {subsubsection}{\numberline {7.3.4}Poder Negocial dos Clientes}{16}{}%
-\contentsline {subsubsection}{\numberline {7.3.5}Poder Negocial dos Fornecedores}{16}{}%
-\contentsline {section}{\numberline {8}Plano de Implementação}{17}{}%
-\contentsline {section}{\numberline {9}Análise da Viabilidade Económica e Financeira}{18}{}%
-\contentsline {subsection}{\numberline {9.1}Pressupostos do Projeto}{18}{}%
-\contentsline {subsection}{\numberline {9.2}Investimento e Financiamento Previsionais}{18}{}%
-\contentsline {subsection}{\numberline {9.3}Proveitos e Custos Previsionais}{18}{}%
-\contentsline {section}{\numberline {10}Análise de Viabilidade: Cash-Flow, VAL, TIR e PayBack}{19}{}%
-\contentsline {section}{\numberline {11}Análise de Sensibilidade}{20}{}%
-\contentsline {section}{\numberline {12}Anexos}{21}{}%
-\contentsline {subsection}{\numberline {12.1}Demonstrações Económico-Financeiras}{21}{}%
-\contentsline {subsubsection}{\numberline {12.1.1}Conta Estado e Outros Enter Públicos}{21}{}%
-\contentsline {subsubsection}{\numberline {12.1.2}Demonstrações de Resultados Previsionais}{21}{}%
-\contentsline {subsubsection}{\numberline {12.1.3}Balanços Previsionais}{21}{}%
-\contentsline {subsection}{\numberline {12.2}Indicadores}{21}{}%
+\contentsline {subsection}{\numberline {5.3}O Preço}{15}{}%
+\contentsline {subsection}{\numberline {5.4}Distribuição}{15}{}%
+\contentsline {subsection}{\numberline {5.5}Promoção}{15}{}%
+\contentsline {section}{\numberline {6}Organização e Gestão}{16}{}%
+\contentsline {subsection}{\numberline {6.1}Experiência dos Promotores}{16}{}%
+\contentsline {subsection}{\numberline {6.2}Especialização Funcional da Organização}{16}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Organigrama}{16}{}%
+\contentsline {subsection}{\numberline {6.3}Análise da Adequação do Perfil às Funções}{17}{}%
+\contentsline {subsection}{\numberline {6.4}Processo de Decisão}{17}{}%
+\contentsline {subsection}{\numberline {6.5}Qualificações do Quadro de Recursos Humanos}{17}{}%
+\contentsline {subsection}{\numberline {6.6}Gestão de Recursos Humanos}{17}{}%
+\contentsline {subsection}{\numberline {6.7}Profissionais Externos}{17}{}%
+\contentsline {section}{\numberline {7}Riscos do Negócio}{18}{}%
+\contentsline {subsection}{\numberline {7.1}Análise Externa - Ameaças e Oportunidades}{18}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Ambiente Geral ou Macroambiente}{18}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Ambiente da Indústria ou Competitivo}{19}{}%
+\contentsline {subsubsection}{\numberline {7.1.3}Análise Interno - Forças e Fraquezas}{20}{}%
+\contentsline {subsection}{\numberline {7.2}Análise SWOT}{20}{}%
+\contentsline {subsection}{\numberline {7.3}Modelo das 5 Forças de Porter}{20}{}%
+\contentsline {subsubsection}{\numberline {7.3.1}Ameaça de Novas Entradas}{20}{}%
+\contentsline {subsubsection}{\numberline {7.3.2}Ameaça de Serviços Substitutos}{21}{}%
+\contentsline {subsubsection}{\numberline {7.3.3}Rivalidade Entre os Concorrentes}{21}{}%
+\contentsline {subsubsection}{\numberline {7.3.4}Poder Negocial dos Clientes}{21}{}%
+\contentsline {subsubsection}{\numberline {7.3.5}Poder Negocial dos Fornecedores}{21}{}%
+\contentsline {section}{\numberline {8}Plano de Implementação}{22}{}%
+\contentsline {subsection}{\numberline {8.1}Etapa 1 - Protótipo}{22}{}%
+\contentsline {subsection}{\numberline {8.2}Etapa 2 - Refinar e implementar funcionalidades}{22}{}%
+\contentsline {subsection}{\numberline {8.3}Etapa 3 - Introdução no mercado nacional}{22}{}%
+\contentsline {subsection}{\numberline {8.4}Etapa 4 - Manter, refinar e implementar funcionalidades}{22}{}%
+\contentsline {subsection}{\numberline {8.5}Etapa 5 - Introdução no mercado internacional}{22}{}%
+\contentsline {subsection}{\numberline {8.6}Etapa 6 - Manutenção, crescimento e implementação periódica de funcionalidades}{23}{}%
+\contentsline {subsection}{\numberline {8.7}Bootstrapping}{23}{}%
+\contentsline {section}{\numberline {9}Análise da Viabilidade Económica e Financeira}{24}{}%
+\contentsline {subsection}{\numberline {9.1}Investimento e Financiamento Previsionais}{24}{}%
+\contentsline {subsection}{\numberline {9.2}Proveitos e Custos Previsionais}{25}{}%
+\contentsline {section}{\numberline {10}Análise de Viabilidade: Cash-Flow, VAL, TIR e PayBack}{27}{}%
+\contentsline {section}{\numberline {11}Análise de Sensibilidade}{28}{}%
+\contentsline {section}{\numberline {12}Anexos - Indicadores}{29}{}%
