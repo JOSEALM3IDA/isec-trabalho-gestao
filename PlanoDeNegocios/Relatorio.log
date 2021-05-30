@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.27)  29 MAY 2021 18:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.27)  30 MAY 2021 03:43
 entering extended mode
 **./Relatorio.tex
 (Relatorio.tex
@@ -405,13 +405,25 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 (C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )))
+(C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box62
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen266
+\ttl@minus=\dimen267
+\ttl@toksa=\toks32
+\titlewidth=\dimen268
+\titlewidthlast=\dimen269
+\titlewidthfirst=\dimen270
+)
 (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2021/03/24 3.56 The Babel package
 
 (C:\Program Files\MiKTeX\tex/generic/babel\babel.def
 File: babel.def 2021/03/24 3.56 Babel common definitions
 \babel@savecnt=\count286
-\U@D=\dimen266
+\U@D=\dimen271
 \l@babelnohyphens=\language79
 
 (C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
@@ -439,39 +451,39 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count288
-\l__pdf_internal_box=\box62
+\l__pdf_internal_box=\box63
 )
 (Relatorio.aux (Cover.aux))
 \openout1 = `Relatorio.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count289
-\scratchdimen=\dimen267
-\scratchbox=\box63
+\scratchdimen=\dimen272
+\scratchbox=\box64
 \nofMPsegments=\count290
 \nofMParguments=\count291
-\everyMPshowfont=\toks32
+\everyMPshowfont=\toks33
 \MPscratchCnt=\count292
-\MPscratchDim=\dimen268
+\MPscratchDim=\dimen273
 \MPnumerator=\count293
 \makeMPintoPDFobject=\count294
-\everyMPtoPDFconversion=\toks33
+\everyMPtoPDFconversion=\toks34
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -534,8 +546,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 \c@lstlisting=\count295
 (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks34
-\inpenc@posthook=\toks35
+\inpenc@prehook=\toks35
+\inpenc@posthook=\toks36
 )
 \openout2 = `Cover.aux'.
 
@@ -576,46 +588,70 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <./images//jalmeida.png, id=34, 427.5975pt x 427.5975pt>
 File: ./images//jalmeida.png Graphic file (type png)
 <use ./images//jalmeida.png>
-Package pdftex.def Info: ./images//jalmeida.png  used on input line 149.
+Package pdftex.def Info: ./images//jalmeida.png  used on input line 152.
 (pdftex.def)             Requested size: 70.8018pt x 70.79848pt.
 <./images//rlousada.png, id=35, 102.3825pt x 102.3825pt>
 File: ./images//rlousada.png Graphic file (type png)
 <use ./images//rlousada.png>
-Package pdftex.def Info: ./images//rlousada.png  used on input line 161.
+Package pdftex.def Info: ./images//rlousada.png  used on input line 164.
 (pdftex.def)             Requested size: 70.8018pt x 70.80647pt.
 <./images//sjaneiro.png, id=36, 963.6pt x 961.5925pt>
 File: ./images//sjaneiro.png Graphic file (type png)
 <use ./images//sjaneiro.png>
-Package pdftex.def Info: ./images//sjaneiro.png  used on input line 173.
+Package pdftex.def Info: ./images//sjaneiro.png  used on input line 176.
 (pdftex.def)             Requested size: 70.8018pt x 70.64905pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6 <./images//jalmeida.png> <./images//rlousada.png>] [7 <./images//sjaneiro.pn
-g>] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] (Relatorio.lof)
+g>] [8]
+Underfull \hbox (badness 1275) in paragraph at lines 263--263
+\OT1/cmr/m/n/10.95 Anuncios no Mer-
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 284--284
+\OT1/cmr/m/n/10.95 Anuncios no Mer-
+ []
+
+[9]
+<./images//planta.png, id=53, 1482.7395pt x 729.32475pt>
+File: ./images//planta.png Graphic file (type png)
+<use ./images//planta.png>
+Package pdftex.def Info: ./images//planta.png  used on input line 324.
+(pdftex.def)             Requested size: 424.82523pt x 208.96144pt.
+ [10 <./images//planta.png>]
+<./images//crescimentoSaaS.jpg, id=58, 445.665pt x 352.9185pt>
+File: ./images//crescimentoSaaS.jpg Graphic file (type jpg)
+<use ./images//crescimentoSaaS.jpg>
+Package pdftex.def Info: ./images//crescimentoSaaS.jpg  used on input line 347.
+
+(pdftex.def)             Requested size: 283.22162pt x 224.28384pt.
+ [11 <./images//crescimentoSaaS.jpg>] [12]
+[13] [14] [15] [16] [17] [18] [19] [20] [21] (Relatorio.lof)
 \tf@lof=\write5
 \openout5 = `Relatorio.lof'.
 
- [18]
+ [22]
 (Relatorio.aux (Cover.aux)) ) 
 Here is how much of TeX's memory you used:
- 15065 strings out of 479321
- 290824 string characters out of 2866501
- 768957 words of memory out of 3000000
- 32232 multiletter control sequences out of 15000+600000
+ 15375 strings out of 479321
+ 294952 string characters out of 2866501
+ 777747 words of memory out of 3000000
+ 32537 multiletter control sequences out of 15000+600000
  409855 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,7n,89p,612b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,9n,89p,889b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\josec\AppData\Local\MiKTeX\fonts/pk/ljf
 our/jknappen/ec/dpi600\tcrm1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
 :/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 es/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Relatorio.pdf (19 pages, 884570 bytes).
+Output written on Relatorio.pdf (23 pages, 1130138 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 120 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -7,60 +7,60 @@
 \contentsline {subsection}{\numberline {2.4}Visão}{7}{}%
 \contentsline {subsection}{\numberline {2.5}Missão}{7}{}%
 \contentsline {subsection}{\numberline {2.6}Vetores Estratégicos}{7}{}%
-\contentsline {subsection}{\numberline {2.7}Localização das Instalações e Descrição do Local}{7}{}%
-\contentsline {subsection}{\numberline {2.8}Razões para a escolha da localização}{7}{}%
-\contentsline {section}{\numberline {3}Análise do Produto/Serviço}{8}{}%
-\contentsline {subsection}{\numberline {3.1}Descrição Sumária dos Serviços}{8}{}%
-\contentsline {subsection}{\numberline {3.2}Vantagens Distintivas}{8}{}%
-\contentsline {subsection}{\numberline {3.3}Desenvolvimentos Previsíveis dos Serviços}{8}{}%
-\contentsline {subsection}{\numberline {3.4}Tecnologias a Utilizar e Direitos da Propriedade Industrial}{8}{}%
-\contentsline {subsection}{\numberline {3.5}Processo Produtivo}{8}{}%
-\contentsline {subsection}{\numberline {3.6}Layout das instalações}{8}{}%
-\contentsline {section}{\numberline {4}Análise de Mercado}{9}{}%
-\contentsline {subsection}{\numberline {4.1}Evolução Histórica e Previsional do Setor (Problemas e Tendências)}{9}{}%
-\contentsline {subsection}{\numberline {4.2}Enquadramento do Negócio no Setor}{9}{}%
-\contentsline {subsection}{\numberline {4.3}Caracterização do Mercado Alvo}{9}{}%
-\contentsline {subsection}{\numberline {4.4}Análise da Concorrência}{9}{}%
-\contentsline {subsubsection}{\numberline {4.4.1}Identificação}{9}{}%
-\contentsline {subsubsection}{\numberline {4.4.2}Avaliação da Empresa com os seus Principais Concorrentes}{9}{}%
-\contentsline {subsection}{\numberline {4.5}Fornecedores}{9}{}%
-\contentsline {section}{\numberline {5}Estratégia de Marketing}{10}{}%
-\contentsline {subsection}{\numberline {5.1}Segmentação}{10}{}%
-\contentsline {subsection}{\numberline {5.2}Política do Produto/Serviço}{10}{}%
-\contentsline {subsection}{\numberline {5.3}O Preço}{10}{}%
-\contentsline {subsection}{\numberline {5.4}Distribuição}{10}{}%
-\contentsline {subsection}{\numberline {5.5}Promoção}{10}{}%
-\contentsline {section}{\numberline {6}Organização e Gestão}{11}{}%
-\contentsline {subsection}{\numberline {6.1}Experiência dos Promotores}{11}{}%
-\contentsline {subsection}{\numberline {6.2}Especialização Funcional da Organização}{11}{}%
-\contentsline {subsubsection}{\numberline {6.2.1}Organigrama}{11}{}%
-\contentsline {subsection}{\numberline {6.3}Análise da Adequação do Perfil às Funções}{11}{}%
-\contentsline {subsection}{\numberline {6.4}Processo de Decisão}{11}{}%
-\contentsline {subsection}{\numberline {6.5}Qualificações do Quadro de Recursos Humanos}{11}{}%
-\contentsline {subsection}{\numberline {6.6}Gestão de Recursos Humanos}{11}{}%
-\contentsline {subsection}{\numberline {6.7}Profissionais Externos}{11}{}%
-\contentsline {section}{\numberline {7}Riscos do Negócio}{12}{}%
-\contentsline {subsection}{\numberline {7.1}Análise Externa - Ameaças e Oportunidades}{12}{}%
-\contentsline {subsubsection}{\numberline {7.1.1}Ambiente Geral ou Macroambiente}{12}{}%
-\contentsline {subsubsection}{\numberline {7.1.2}Ambiente da Indústria ou Competitivo}{12}{}%
-\contentsline {subsubsection}{\numberline {7.1.3}Análise Interno - Forças e Fraquezas}{12}{}%
-\contentsline {subsection}{\numberline {7.2}Análise SWOT}{12}{}%
-\contentsline {subsection}{\numberline {7.3}Modelo das 5 Forças de Porter}{12}{}%
-\contentsline {subsubsection}{\numberline {7.3.1}Ameaça de Novas Entradas}{12}{}%
-\contentsline {subsubsection}{\numberline {7.3.2}Ameaça de Serviços Substitutos}{12}{}%
-\contentsline {subsubsection}{\numberline {7.3.3}Rivalidade Entre os Concorrentes}{12}{}%
-\contentsline {subsubsection}{\numberline {7.3.4}Poder Negocial dos Clientes}{12}{}%
-\contentsline {subsubsection}{\numberline {7.3.5}Poder Negocial dos Fornecedores}{12}{}%
-\contentsline {section}{\numberline {8}Plano de Implementação}{13}{}%
-\contentsline {section}{\numberline {9}Análise da Viabilidade Económica e Financeira}{14}{}%
-\contentsline {subsection}{\numberline {9.1}Pressupostos do Projeto}{14}{}%
-\contentsline {subsection}{\numberline {9.2}Investimento e Financiamento Previsionais}{14}{}%
-\contentsline {subsection}{\numberline {9.3}Proveitos e Custos Previsionais}{14}{}%
-\contentsline {section}{\numberline {10}Análise de Viabilidade: Cash-Flow, VAL, TIR e PayBack}{15}{}%
-\contentsline {section}{\numberline {11}Análise de Sensibilidade}{16}{}%
-\contentsline {section}{\numberline {12}Anexos}{17}{}%
-\contentsline {subsection}{\numberline {12.1}Demonstrações Económico-Financeiras}{17}{}%
-\contentsline {subsubsection}{\numberline {12.1.1}Conta Estado e Outros Enter Públicos}{17}{}%
-\contentsline {subsubsection}{\numberline {12.1.2}Demonstrações de Resultados Previsionais}{17}{}%
-\contentsline {subsubsection}{\numberline {12.1.3}Balanços Previsionais}{17}{}%
-\contentsline {subsection}{\numberline {12.2}Indicadores}{17}{}%
+\contentsline {subsection}{\numberline {2.7}Localização das Instalações e Descrição do Local}{8}{}%
+\contentsline {subsection}{\numberline {2.8}Razões para a escolha da localização}{8}{}%
+\contentsline {section}{\numberline {3}Análise do Produto/Serviço}{9}{}%
+\contentsline {subsection}{\numberline {3.1}Descrição Sumária dos Serviços}{9}{}%
+\contentsline {subsection}{\numberline {3.2}Vantagens Distintivas}{9}{}%
+\contentsline {subsection}{\numberline {3.3}Desenvolvimentos Previsíveis dos Serviços}{9}{}%
+\contentsline {subsection}{\numberline {3.4}Tecnologias a Utilizar e Direitos da Propriedade Industrial}{10}{}%
+\contentsline {subsection}{\numberline {3.5}Processo Produtivo}{10}{}%
+\contentsline {subsection}{\numberline {3.6}Layout das instalações}{10}{}%
+\contentsline {section}{\numberline {4}Análise de Mercado}{11}{}%
+\contentsline {subsection}{\numberline {4.1}Evolução Histórica e Previsional do Setor (Problemas e Tendências)}{11}{}%
+\contentsline {subsection}{\numberline {4.2}Enquadramento do Negócio no Setor}{11}{}%
+\contentsline {subsection}{\numberline {4.3}Caracterização do Mercado Alvo}{12}{}%
+\contentsline {subsection}{\numberline {4.4}Análise da Concorrência}{12}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Identificação}{12}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}Avaliação da Empresa com os seus Principais Concorrentes}{13}{}%
+\contentsline {subsection}{\numberline {4.5}Fornecedores}{13}{}%
+\contentsline {section}{\numberline {5}Estratégia de Marketing}{14}{}%
+\contentsline {subsection}{\numberline {5.1}Segmentação}{14}{}%
+\contentsline {subsection}{\numberline {5.2}Política do Produto/Serviço}{14}{}%
+\contentsline {subsection}{\numberline {5.3}O Preço}{14}{}%
+\contentsline {subsection}{\numberline {5.4}Distribuição}{14}{}%
+\contentsline {subsection}{\numberline {5.5}Promoção}{14}{}%
+\contentsline {section}{\numberline {6}Organização e Gestão}{15}{}%
+\contentsline {subsection}{\numberline {6.1}Experiência dos Promotores}{15}{}%
+\contentsline {subsection}{\numberline {6.2}Especialização Funcional da Organização}{15}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Organigrama}{15}{}%
+\contentsline {subsection}{\numberline {6.3}Análise da Adequação do Perfil às Funções}{15}{}%
+\contentsline {subsection}{\numberline {6.4}Processo de Decisão}{15}{}%
+\contentsline {subsection}{\numberline {6.5}Qualificações do Quadro de Recursos Humanos}{15}{}%
+\contentsline {subsection}{\numberline {6.6}Gestão de Recursos Humanos}{15}{}%
+\contentsline {subsection}{\numberline {6.7}Profissionais Externos}{15}{}%
+\contentsline {section}{\numberline {7}Riscos do Negócio}{16}{}%
+\contentsline {subsection}{\numberline {7.1}Análise Externa - Ameaças e Oportunidades}{16}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Ambiente Geral ou Macroambiente}{16}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Ambiente da Indústria ou Competitivo}{16}{}%
+\contentsline {subsubsection}{\numberline {7.1.3}Análise Interno - Forças e Fraquezas}{16}{}%
+\contentsline {subsection}{\numberline {7.2}Análise SWOT}{16}{}%
+\contentsline {subsection}{\numberline {7.3}Modelo das 5 Forças de Porter}{16}{}%
+\contentsline {subsubsection}{\numberline {7.3.1}Ameaça de Novas Entradas}{16}{}%
+\contentsline {subsubsection}{\numberline {7.3.2}Ameaça de Serviços Substitutos}{16}{}%
+\contentsline {subsubsection}{\numberline {7.3.3}Rivalidade Entre os Concorrentes}{16}{}%
+\contentsline {subsubsection}{\numberline {7.3.4}Poder Negocial dos Clientes}{16}{}%
+\contentsline {subsubsection}{\numberline {7.3.5}Poder Negocial dos Fornecedores}{16}{}%
+\contentsline {section}{\numberline {8}Plano de Implementação}{17}{}%
+\contentsline {section}{\numberline {9}Análise da Viabilidade Económica e Financeira}{18}{}%
+\contentsline {subsection}{\numberline {9.1}Pressupostos do Projeto}{18}{}%
+\contentsline {subsection}{\numberline {9.2}Investimento e Financiamento Previsionais}{18}{}%
+\contentsline {subsection}{\numberline {9.3}Proveitos e Custos Previsionais}{18}{}%
+\contentsline {section}{\numberline {10}Análise de Viabilidade: Cash-Flow, VAL, TIR e PayBack}{19}{}%
+\contentsline {section}{\numberline {11}Análise de Sensibilidade}{20}{}%
+\contentsline {section}{\numberline {12}Anexos}{21}{}%
+\contentsline {subsection}{\numberline {12.1}Demonstrações Económico-Financeiras}{21}{}%
+\contentsline {subsubsection}{\numberline {12.1.1}Conta Estado e Outros Enter Públicos}{21}{}%
+\contentsline {subsubsection}{\numberline {12.1.2}Demonstrações de Resultados Previsionais}{21}{}%
+\contentsline {subsubsection}{\numberline {12.1.3}Balanços Previsionais}{21}{}%
+\contentsline {subsection}{\numberline {12.2}Indicadores}{21}{}%
